@@ -29,9 +29,14 @@ To run the Jigsaw Puzzle Solver on your local machine, you'll need to have Pytho
 ## Results
 
 ### Without hint
+![image](https://github.com/Alya0/Jigsaw-Puzzle-Solver/assets/38858460/77fce2b1-1b54-430c-bcf8-f63374eb5849)
+![image](https://github.com/Alya0/Jigsaw-Puzzle-Solver/assets/38858460/d5fd9e7e-b7c4-4105-8cd9-a1a91edb4d79)
+![image](https://github.com/Alya0/Jigsaw-Puzzle-Solver/assets/38858460/77746cef-3daf-4c3d-a7aa-68cc6d6ea276)
 
 
 ### With hint
+![image](https://github.com/Alya0/Jigsaw-Puzzle-Solver/assets/38858460/1a177b97-408f-4893-ad94-9d6882addaea)
+![image](https://github.com/Alya0/Jigsaw-Puzzle-Solver/assets/38858460/00910789-4b7b-44ec-8b5d-66e2312b6b4d)
 
 ## Refrences
 * Using Computer Vision to Solve Jigsaw Puzzles, Travis V. Allen, Standford University.
